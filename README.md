@@ -1,4 +1,4 @@
-# tijaabo
+# Smart Class Activity
 
 A new Flutter project.
 
